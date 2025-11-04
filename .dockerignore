@@ -8,7 +8,7 @@ README.md
 coverage
 .logs
 Dockerfile
-docker-compose.yml
+docker-compose.yaml
 .gitgithub/
 .vscode/
 .idea/
